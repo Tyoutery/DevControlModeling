@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8970b8a3-98a4-47ef-ad1e-2ab5818842da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DevControlMain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevControlModel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DevControlModel.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/环境语境.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备状态.xlsx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
